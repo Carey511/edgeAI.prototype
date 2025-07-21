@@ -41,7 +41,7 @@ The model is trained on a modified version of the [TrashNet dataset](https://git
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/edge-ai-recycling.git
+git clone https://github.com/Carey511/edgeAI.prototype.git
 cd edge-ai-recycling
 
 # Install dependencies
